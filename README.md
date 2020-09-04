@@ -2,6 +2,13 @@
 
 This file is the template for the first lab in Ashesi Web Development 2020.
 
+# Author's Profile
+Name: Percy Brown
+ID: 40382022
+COURSE: WEB TECH
+SCHOOL: ASHESI UNIVERISTY
+MOOD: EXCITED!
+
 ## Contents
 
 This repository contains a single file, a script for gathering the basic configuration of the user from bash.
