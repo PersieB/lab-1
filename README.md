@@ -9,6 +9,9 @@ COURSE: WEB TECH
 SCHOOL: ASHESI UNIVERISTY
 MOOD: EXCITED!
 
+# Link for published website
+https://persieb.github.io/lab-1/
+
 ## Contents
 
 This repository contains a single file, a script for gathering the basic configuration of the user from bash.
